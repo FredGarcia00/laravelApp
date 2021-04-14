@@ -1,3 +1,16 @@
+#Lavarel app
+
+Main features of this application?
+
+1.Includes authentication to allow users to sign up/register
+2.Entering as a registered user allows to create blog posts
+3.Able to edit or delete a post that you create(not another user)
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
